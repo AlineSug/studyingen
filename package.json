@@ -1,7 +1,7 @@
 {
   "name": "flashcard",
   "version": "0.1.0",
-  "homepage": "https://github.com/AlineSug/studyingen",
+  "homepage": "https://alinesug.github.io/studyingen",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",

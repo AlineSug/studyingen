@@ -1,6 +1,5 @@
 import "./App.css";
 import { useState } from "react";
-import logo from "./logolearning.png";
 
 export default function App() {
   return (
@@ -14,7 +13,12 @@ export default function App() {
 function Top() {
   return (
     <div className="top">
-      <img src={logo} alt="Logo" style={{ height: 150 }} />
+      <img
+        className="logo"
+        src={process.env.PUBLIC_URL + "/logolearning.png"}
+        alt="Logo"
+        style={{ height: 150 }}
+      />
       <h1>Conhecendo frases nativas usadas</h1>
     </div>
   );
