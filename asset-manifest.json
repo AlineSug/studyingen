@@ -1,14 +1,13 @@
 {
   "files": {
-    "main.css": "/AlineSug/studyingen.git/static/css/main.2ea8a8a3.css",
-    "main.js": "/AlineSug/studyingen.git/static/js/main.aa86a75d.js",
-    "static/media/logolearning.png": "/AlineSug/studyingen.git/static/media/logolearning.d0b6b04ee188a4fe2621.png",
-    "index.html": "/AlineSug/studyingen.git/index.html",
-    "main.2ea8a8a3.css.map": "/AlineSug/studyingen.git/static/css/main.2ea8a8a3.css.map",
-    "main.aa86a75d.js.map": "/AlineSug/studyingen.git/static/js/main.aa86a75d.js.map"
+    "main.css": "/studyingen/static/css/main.9651df78.css",
+    "main.js": "/studyingen/static/js/main.0035590a.js",
+    "index.html": "/studyingen/index.html",
+    "main.9651df78.css.map": "/studyingen/static/css/main.9651df78.css.map",
+    "main.0035590a.js.map": "/studyingen/static/js/main.0035590a.js.map"
   },
   "entrypoints": [
-    "static/css/main.2ea8a8a3.css",
-    "static/js/main.aa86a75d.js"
+    "static/css/main.9651df78.css",
+    "static/js/main.0035590a.js"
   ]
 }
