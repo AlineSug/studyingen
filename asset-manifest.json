@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/studyingen/static/css/main.9651df78.css",
-    "main.js": "/studyingen/static/js/main.0035590a.js",
+    "main.css": "/studyingen/static/css/main.4c888f09.css",
+    "main.js": "/studyingen/static/js/main.c065c615.js",
     "index.html": "/studyingen/index.html",
-    "main.9651df78.css.map": "/studyingen/static/css/main.9651df78.css.map",
-    "main.0035590a.js.map": "/studyingen/static/js/main.0035590a.js.map"
+    "main.4c888f09.css.map": "/studyingen/static/css/main.4c888f09.css.map",
+    "main.c065c615.js.map": "/studyingen/static/js/main.c065c615.js.map"
   },
   "entrypoints": [
-    "static/css/main.9651df78.css",
-    "static/js/main.0035590a.js"
+    "static/css/main.4c888f09.css",
+    "static/js/main.c065c615.js"
   ]
 }
