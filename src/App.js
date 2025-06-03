@@ -19,7 +19,7 @@ function Top() {
         alt="Logo"
         style={{ height: 220, marginTop: 80, padding: 0 }}
       />
-      <h1>Conhecendo frases nativas usadas</h1>
+      <h1>Inglês Frases Nativas Usadas</h1>
     </div>
   );
 }
@@ -45,7 +45,7 @@ const questions = [
   {
     id: 6,
     question: "Whip up something",
-    answer: "Preparar algo rapido",
+    answer: "Preparar algo rápido",
   },
   {
     id: 7,
@@ -80,7 +80,67 @@ const questions = [
   {
     id: 13,
     question: "I can't make out",
-    answer: "Nao consigo entender",
+    answer: "Não consigo entender",
+  },
+  {
+    id: 14,
+    question: "Make up your mind",
+    answer: "Decidir",
+  },
+  {
+    id: 15,
+    question: "Let it slide",
+    answer: "Deixar ir, deixar pra lá",
+  },
+  {
+    id: 16,
+    question: "Way to go!",
+    answer: "Bom trabalho!",
+  },
+  {
+    id: 17,
+    question: "He strikes me as a good person",
+    answer: "Ele parece ser uma boa pessoa",
+  },
+  {
+    id: 18,
+    question: "I'm down for it",
+    answer: "Estou pronto pra isso",
+  },
+  {
+    id: 19,
+    question: "In hindsight",
+    answer: "Olhando para trás(refletindo)",
+  },
+  {
+    id: 20,
+    question: "I bet you",
+    answer: "Eu aposto que",
+  },
+  {
+    id: 21,
+    question: "Get a kick off something",
+    answer: "Gostar muito de algo ..., Se divertir fazendo algo",
+  },
+  {
+    id: 22,
+    question: "Out of sorts",
+    answer: "Não se sentindo bem",
+  },
+  {
+    id: 23,
+    question: "I'm game!",
+    answer: "Tô dentro! Eu topo",
+  },
+  {
+    id: 24,
+    question: "Open up to me",
+    answer: "Se abriu comigo (contou algo)",
+  },
+  {
+    id: 25,
+    question: "Let's play it by ear",
+    answer: "Vamos deixar rolar (sem planejamento rígido",
   },
 ];
 
