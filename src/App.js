@@ -17,7 +17,7 @@ function Top() {
         className="logo"
         src={process.env.PUBLIC_URL + "/logolearning.png"}
         alt="Logo"
-        style={{ height: 150 }}
+        style={{ height: 220, marginTop: 80, padding: 0 }}
       />
       <h1>Conhecendo frases nativas usadas</h1>
     </div>
@@ -26,21 +26,62 @@ function Top() {
 
 const questions = [
   {
-    id: 3457,
+    id: 1,
     question: "You Nailed it!",
-    answer: "Voce acertou(conseguiu)",
+    answer: "Você arrasou(Mandou bem)",
   },
   {
-    id: 7336,
+    id: 2,
     question: "To seized ",
     answer: "Conquistar/Agarrar/Se apoderar",
   },
   {
-    id: 8832,
+    id: 3,
     question: "Made a pass at me",
     answer: "Dar em cima/ investida/ flertar",
   },
-  { id: 2233, question: "Double Standard", answer: "Dois pesos duas medidas" },
+  { id: 4, question: "Double Standard", answer: "Dois pesos duas medidas" },
+  { id: 5, question: "Let's kick off", answer: "Vamos começar" },
+  {
+    id: 6,
+    question: "Whip up something",
+    answer: "Preparar algo rapido",
+  },
+  {
+    id: 7,
+    question: "I have a beef with",
+    answer: "Tenho problema com...",
+  },
+  {
+    id: 8,
+    question: "I'm drawing a blank",
+    answer: "Não consigo lembrar",
+  },
+  {
+    id: 9,
+    question: "Pricey",
+    answer: "Caro",
+  },
+  {
+    id: 10,
+    question: "Put off",
+    answer: "Adiar, Desanimar, Afastar",
+  },
+  {
+    id: 11,
+    question: "I blurted out",
+    answer: "Falei sem pensar",
+  },
+  {
+    id: 12,
+    question: "Make out",
+    answer: "Beijar, caricias, progredir ",
+  },
+  {
+    id: 13,
+    question: "I can't make out",
+    answer: "Nao consigo entender",
+  },
 ];
 
 function FlashCard() {
